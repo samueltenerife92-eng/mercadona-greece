@@ -20,15 +20,6 @@ The objective is to compare selected Greek cities, examine the competitive lands
 - Patras
 - Heraklion
 
-## Technical Skills
-
-- PostgreSQL and relational database design
-- SQL joins, aggregations, and subqueries
-- Market sizing and city-level comparisons
-- Competitor mapping and distance analysis
-- Financial scenario and break-even analysis
-- Data quality checks and assumption documentation
-
 ## Preliminary Findings
 
 Athens emerges as the first city to investigate further, followed by Thessaloniki, Patras, and Heraklion under the current illustrative assumptions.
