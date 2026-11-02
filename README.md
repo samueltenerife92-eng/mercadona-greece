@@ -64,18 +64,6 @@ This is a preliminary analytical model, not an official Mercadona feasibility st
 
 No actual Mercadona expansion decision, store forecast or financial result is claimed.
 
-## Repository structure
-
-```text
-data/
-  README.md
-sql/
-  01_data_quality_audit.sql
-  02_market_size_proxy.sql
-  03_competitor_store_audit.sql
-  04_store_scenario_analysis.sql
-  05_project_status_summary.sql
-```
 
 ## How to run
 
